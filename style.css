@@ -114,3 +114,24 @@ button
     flex-direction: row;
     align-items: flex-end;
 }
+.postInteractions{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+    margin-top: 3em;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#postIcons{
+    margin-right: 1em;
+}
+.postDetails{
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 1.5rem;
+    margin-bottom: 1em;
+}
